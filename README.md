@@ -1,8 +1,8 @@
 # PROGRAMMING FOR PROBLEM SOLVING 
 
-### NAME - Chirag Sahni 
+### NAME - Gurjit singh
 
-### ROLL NO - 1914030
+### ROLL NO - 1914040
 
 ### BRANCH - CIVIL 
 
